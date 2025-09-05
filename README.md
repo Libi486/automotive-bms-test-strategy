@@ -22,4 +22,4 @@ This project is part of my journey toward becoming a Test Manager in the automot
 **Libin Babu Daniel**  
 Automotive Systems Expert | Aspiring Test Manager  
 📍 Weyhausen, Germany  
-🔗 [LinkedIn](#) | 📄 [Resume](#)
+🔗 [LinkedIn](#) https://www.linkedin.com/in/libin-babu-daniel-227bbb180?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app | 📄 [Resume](#)
